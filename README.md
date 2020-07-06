@@ -30,9 +30,13 @@ Follow below steps in order to setup project and execute the test(s).
 
 ## Challenges Faced - Solved
 
- - Since the tests focused on cross browser visual checks, I implemented a Java based Image checker solution taking some cues from [here](http://mundrisoft.com/tech-bytes/compare-images-using-java/)
- - To cover the visual aspects such as the colour of the text or the background, I have implemented some functions to cover that aspect as well for different elements by fetching the CSS values using Selenium.
- - Since the tests focused on cross browser visual checks, I also evaluated [Ashot](https://github.com/pazone/ashot) utility for taking full page screenshots & comparing the V1 & V2 versions. It provides basic image comparison techniques but the code needed to be tweaked for different browsers & viewport. I went ahead deciding not to use it, since that did not fit the purpose of this hackathon. 
+ - Since the tests focused on cross browser visual checks, I implemented a ***Java based Image checker*** solution taking some cues from [here](http://mundrisoft.com/tech-bytes/compare-images-using-java/)
+ - To cover the visual aspects such as the ***colour of the text or the background colour***, I implemented some java functions for fetching the CSS values using Selenium for different elements wherever required.
+ - For the traditional approach the **viewport size** for Tablet(768x700) given in instructions was launching the site in Mobile view using selenium. This was due to width calculation being done differently in Selenium. Selenium treats the provided window size width as window's outer width. To solve this I used 850x700 as the size for Tablet.
+ - Each **Test is launched in parallel on the 7 viewport-browser combinations** by making use of *TestNG's* data provider with parallel=true attribute. This saves time over sequential execution.
+ - Since the **footer & header** was same across the pages, I made **page object files of these components** and **reused the functions across the pages & Tests**. However when I started this I got to know that the Id's of these elements are different on both homepage & product details page. So I switched to using xpaths wherever necessary instead of using ID. This is a little deviation from the hackathon guidelines of using ID's but I had to do it for reusability purpose. I hope this is fine.
+ - To avoid failures due to any missing dependencies, have kept all selenium drivers in the project's "src/test/resources/" folder. All the baseline images for Java based comparison are kept in "src/test/resources/images"
+ - Since the tests focused on cross browser visual checks, I also evaluated [Ashot](https://github.com/pazone/ashot) utility for taking full page screenshots & comparing the V1 & V2 versions. It provides basic image comparison techniques but the code needed to be tweaked for different browsers & viewport & seemed flaky for advanced usages. I went ahead deciding not to use it because of the limitations & since that did not fit the purpose of this hackathon. 
 
 ## Author
 
