@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71587" started-at="2020-07-05T19:19:15Z" finished-at="2020-07-05T19:20:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71587" started-at="2020-07-05T19:19:15Z" finished-at="2020-07-05T19:20:26Z">
+      <class name="tests.ModernTestsV2">
+        <test-method status="PASS" signature="setBatch()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="setBatch" is-config="true" duration-ms="146" started-at="2020-07-05T19:19:15Z" finished-at="2020-07-05T19:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBatch -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="initialize" is-config="true" duration-ms="4288" started-at="2020-07-05T19:19:15Z" finished-at="2020-07-05T19:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="task1_CrossDeviceElementsTest()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="task1_CrossDeviceElementsTest" duration-ms="16622" started-at="2020-07-05T19:19:19Z" finished-at="2020-07-05T19:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task1_CrossDeviceElementsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="tearDown" is-config="true" duration-ms="1055" started-at="2020-07-05T19:19:36Z" finished-at="2020-07-05T19:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="initialize" is-config="true" duration-ms="1781" started-at="2020-07-05T19:19:37Z" finished-at="2020-07-05T19:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="task2_ShoppingExperienceTest()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="task2_ShoppingExperienceTest" duration-ms="12270" started-at="2020-07-05T19:19:39Z" finished-at="2020-07-05T19:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task2_ShoppingExperienceTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="tearDown" is-config="true" duration-ms="1016" started-at="2020-07-05T19:19:51Z" finished-at="2020-07-05T19:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="initialize" is-config="true" duration-ms="2294" started-at="2020-07-05T19:19:52Z" finished-at="2020-07-05T19:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="task3_ProductDetailsTest()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="task3_ProductDetailsTest" duration-ms="15318" started-at="2020-07-05T19:19:54Z" finished-at="2020-07-05T19:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task3_ProductDetailsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="tearDown" is-config="true" duration-ms="1000" started-at="2020-07-05T19:20:10Z" finished-at="2020-07-05T19:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:tests.ModernTestsV2@1ed4004b]" name="tearDownClass" is-config="true" duration-ms="15744" started-at="2020-07-05T19:20:11Z" finished-at="2020-07-05T19:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- tests.ModernTestsV2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

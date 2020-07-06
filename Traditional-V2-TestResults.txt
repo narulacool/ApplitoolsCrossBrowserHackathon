@@ -1,0 +1,1030 @@
+Task: 1, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applifashion Logo is displayed on Mobile, DOM id: IMG____9, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search box is not displayed on Mobile, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 1, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Mobile, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: About Us link is not visible by default on Mobile, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 1, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Mobile, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are not visible by default on Mobile, DOM id: filter_col, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results grid view icon is not visible on Mobile, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 1, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 1, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 1, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Mobile, DOM id: IMG____9, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search box is not displayed on Mobile, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Quick Links heading is visible on Mobile, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: About Us link is not visible by default on Mobile, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Mobile, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Filter options are not visible by default on Mobile, DOM id: filter_col, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search results grid view icon is not visible on Mobile, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Wishlist icon is not displayed on Tablet on Home Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Tablet, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Filter options are not visible by default on Tablet, DOM id: filter_col, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Search results grid view icon is not visible on Tablet, DOM xpath: //i[@class='ti-view-grid'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Number of shoes displayed are exactly 2, DOM xpath: //div[@class='grid_item'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Verify that 1st Black Shoe AppliAirXNight label is displayed, DOM xpath: //h3[text()='Appli Air x Night'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Verify that 2nd Black Shoe AppliAir720 label is displayed, DOM xpath: //h3[text()='Appli Air 720'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 2, Test Name: Appli Air X Night Image is displayed correctly, DOM xpath: //img[@alt='Appli Air x Night'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Appli Air 720 Image is displayed correctly, DOM xpath: //img[@alt='Appli Air 720'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Wishlist icon is displayed on Laptop on Home Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Number of items in Cart are displayed on Laptop on Home Page, DOM id: STRONG____50, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner shoe is visible on Laptop, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter options are visible by default on Laptop, DOM id: filter_col, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Sort option is visible by default on Laptop, DOM xpath: //div[@class='sort_select'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results grid view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-grid'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Search results list view icon is visible by default on Laptop, DOM xpath: //i[@class='ti-view-list'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: 30% off ribbon is visible on Laptop, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: 1 day left Countdown is visible on Laptop, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price is visible on Laptop, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Old Price is visible on Laptop, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes heart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-heart'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes shuffle icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-control-shuffle'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Shoes shopping cart icon is not visible by default on Laptop, DOM xpath: (//i[@class='ti-shopping-cart'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Filter icon is not visible on Laptop, DOM id: ti-filter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Countdown Colour is Red, DOM xpath: (//div[@class='countdown'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: New Price Colour is Blue, DOM xpath: (//span[@class='new_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Off Ribbon Colour is Red, DOM xpath: (//span[@class='ribbon off'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Old Price Colour is Grey, DOM xpath: (//span[@class='old_price'])[1], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Top Banner Shoe Image is displayed correctly, DOM xpath: //div[@class='top_banner'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Mobile, DOM id: IMG____9, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Search box is not displayed on Mobile, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Main Menu is not displayed on Mobile, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Tablet on Product Details Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Mobile on Product Details Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Tablet on Product Details Page, DOM id: STRONG____50, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Tablet, DOM id: I__headericon__44, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Mobile on Product Details Page, DOM id: STRONG____50, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Profile icon is displayed on Tablet, DOM id: A__accesslink__56, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is not displayed on Mobile, DOM id: I__headericon__44, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Tablet, DOM id: A__cartbt__49, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Home option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__23, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Men option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__25, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Women option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__27, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Profile icon is displayed on Mobile, DOM id: A__accesslink__56, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Mobile, DOM id: A__cartbt__49, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Running option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__29, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Home option of top Menu is not displayed on Mobile, DOM id: A__showsubmen__23, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Training option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__31, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Men option of top Menu is not displayed on Mobile, DOM id: A__showsubmen__25, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Show search box button is not visible on Tablet, DOM id: A__btnsearchm__59, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Women option of top Menu is not displayed on Mobile, DOM id: A__showsubmen__27, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Running option of top Menu is not displayed on Mobile, DOM id: A__showsubmen__29, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Training option of top Menu is not displayed on Mobile, DOM id: A__showsubmen__31, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Show search box button is visible on Mobile, DOM id: A__btnsearchm__59, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Mobile, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Laptop on Product Details Page, DOM id: A__wishlist__52, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: About Us link is not visible by default on Mobile, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: FAQ link is not visible by default on Mobile, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Laptop on Product Details Page, DOM id: STRONG____50, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Help link is not visible by default on Mobile, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: My Account link is not visible by default on Mobile, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Blog link is not visible by default on Mobile, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Contacts link is not visible by default on Mobile, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Mobile, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Address is not visible by default on Mobile, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applitools email is not visible by default on Mobile, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Mobile, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: YourEmail textbox is not visible by default on Mobile, DOM id: email_newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News letter button is not visible by default on Mobile, DOM id: submit-newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Mobile, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Tablet on Product Details Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Mobile, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name label is displayed, DOM id: shoe_name, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check rating is displayed, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Terms and Conditions link is visible on Mobile, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Reviews is displayed, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Tablet on Product Details Page, DOM id: STRONG____50, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check SKU is displayed, DOM id: SMALL____84, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Laptop on Product Details Page, DOM id: A__wishlist__52, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Mobile, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Product description is displayed, DOM id: P____83, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Laptop on Product Details Page, DOM id: STRONG____50, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Tablet, DOM id: I__headericon__44, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Mobile, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check Size label is displayed, DOM id: STRONG____90, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Check Quantity label is displayed, DOM id: STRONG____100, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Profile icon is displayed on Tablet, DOM id: A__accesslink__56, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check new price is displayed, DOM id: new_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Check old price is displayed, DOM id: old_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check discount percentage is displayed, DOM id: discount, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Tablet, DOM id: IMG____9, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check add to cart button is displayed, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 500x700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Shoe Image on Product detail Page is displayed correctly, DOM id: shoe_img, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Search box is displayed on Tablet, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Discount Percentage Colour is Red, DOM id: discount, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Add To Cart Colour is Blue, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Tablet, DOM id: A__cartbt__49, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Main Menu is not displayed on Tablet, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: New Price Colour is Blue, DOM id: new_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Old Price Colour is Grey, DOM id: old_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Tablet on Product Details Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that Shoe Name is correct, DOM id: shoe_name, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Tablet on Product Details Page, DOM id: STRONG____50, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Tablet, DOM id: I__headericon__44, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Check shoe image is displayed, DOM id: shoe_img, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Profile icon is displayed on Tablet, DOM id: A__accesslink__56, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Tablet, DOM id: A__cartbt__49, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that review count is correct, DOM id: SPAN__rating__76, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that SKU Text is correct, DOM id: SMALL____84, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Home option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__23, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Home option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__23, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that Product description is correct, DOM id: P____83, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify that default Size is Small, DOM xpath: //span[@class='current'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Men option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__25, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify that default quantity is 1, DOM xpath: //span[@class='current'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify new price is correct, DOM id: new_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Women option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__27, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify old price is correct, DOM id: old_price, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Running option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__29, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Verify discount percentage is correct, DOM id: discount, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Verify Add to cart Text, DOM id: A__btn__114, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Training option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__31, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applifashion Logo is displayed on Laptop, DOM id: IMG____9, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Men option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__25, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Show search box button is not visible on Tablet, DOM id: A__btnsearchm__59, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Search box is displayed on Laptop, DOM id: INPUTtext____42, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Women option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__27, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Main Menu is displayed on Laptop, DOM id: DIV__mainmenu__15, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Wishlist icon is displayed on Laptop on Product Details Page, DOM id: A__wishlist__52, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Running option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__29, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Number of items in Cart are displayed on Laptop on Product Details Page, DOM id: STRONG____50, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Search icon inside Search Box is displayed on Laptop, DOM id: I__headericon__44, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Training option of top Menu is not displayed on Tablet, DOM id: A__showsubmen__31, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Profile icon is displayed on Laptop, DOM id: A__accesslink__56, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Cart icon is displayed on Laptop, DOM id: A__cartbt__49, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Show search box button is not visible on Tablet, DOM id: A__btnsearchm__59, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Home option of top Menu is displayed on Laptop, DOM id: A__showsubmen__23, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Men option of top Menu is displayed on Laptop, DOM id: A__showsubmen__25, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Women option of top Menu is displayed on Laptop, DOM id: A__showsubmen__27, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Tablet, DOM xpath: //a[contains(@href,'about')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Running option of top Menu is displayed on Laptop, DOM id: A__showsubmen__29, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Training option of top Menu is displayed on Laptop, DOM id: A__showsubmen__31, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Show search box button is not visible on Laptop, DOM id: A__btnsearchm__59, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Quick Links heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Quick Links')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: About Us link is visible by default on Laptop, DOM xpath: //a[contains(@href,'about')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Tablet, DOM xpath: //a[contains(text(),'My account')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: FAQ link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Faq')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Help link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Help')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Blog link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: My Account link is visible by default on Laptop, DOM xpath: //a[contains(text(),'My account')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Blog link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Blog')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Tablet, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts link is visible by default on Laptop, DOM xpath: //a[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Contacts heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Contacts')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Address is visible by default on Tablet, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Address is visible by default on Laptop, DOM xpath: //li[contains(text(),'155 Bovet Rd')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: CHROME, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Laptop, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Applitools email is visible by default on Tablet, DOM xpath: //a[contains(text(),'srd@applitools.com')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Laptop, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Keep In Touch heading is visible on Tablet, DOM xpath: //h3[contains(text(),'Keep in touch')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: FIREFOX, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Laptop, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: YourEmail textbox is visible by default on Tablet, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Laptop, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News letter button is visible by default on Tablet, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Tablet, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: English is displayed as selected Language on Laptop, DOM xpath: //option[text()='English']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Tablet, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: US Dollars is displayed as selected currency on Laptop, DOM xpath: //option[text()='US Dollars']/.., Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Tablet, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is visible on Laptop, DOM xpath: //a[text()='Terms and conditions'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Tablet, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Privacy link is visible on Laptop, DOM xpath: //a[text()='Privacy'], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Tablet, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Copyright link is visible on Laptop, DOM xpath: //span[contains(text(),'2020 Applitools')], Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Footer Background Colour is Dark Blue, DOM xpath: //footer, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Your Email input box Background Colour is Dark Grey, DOM id: email_newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 1200x700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Submit News Letter Button Background Colour is Blue, DOM id: submit-newsletter, Browser: EDGECHROMIUM, Viewport: 850x700, Device: TABLET, Status: Pass

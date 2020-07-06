@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Modern Tests">
+  <test name="V2">
+    <classes>
+      <class name="tests.ModernTestsV2"/>
+    </classes>
+  </test>
+</suite>
