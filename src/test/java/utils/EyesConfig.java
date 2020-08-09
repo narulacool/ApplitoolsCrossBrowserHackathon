@@ -9,7 +9,7 @@ import com.applitools.eyes.visualgrid.model.ScreenOrientation;
 
 public class EyesConfig {
 
-	private String apiKey = "YRJFMZzJJ6RpTky0r3yIl8J1pI108AnRdnw9PwTmYz107q8110";
+	private String apiKey = "ApplitoolsAPIKeyGoesHere";
 
 	public String appName = "Hackathon App";
 
